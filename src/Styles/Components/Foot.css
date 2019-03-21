@@ -1,0 +1,31 @@
+.stick_to_bottom {
+    clear: left; /*Clear left stops it from floating left
+                    alongs others*/
+}
+h3 {
+    font-size: 20px;
+    font-weight: bold
+}
+
+.socials {
+    clear: left
+}
+
+.socials ul li {
+    /* padding-left: 10px; */
+    color: white;
+    float: left
+}
+
+.socials ul li a{
+    padding-left: 10px;
+    color: black;
+    float: left
+}
+
+.socials ul li a:hover{
+    padding-left: 10px;
+    font-size: 15px;
+    color: white;
+    float: left
+}

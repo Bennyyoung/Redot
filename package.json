@@ -25,6 +25,7 @@
   "dependencies": {
     "antd": "^3.14.1",
     "express": "^4.16.4",
+    "express-favicon": "^2.0.1",
     "mdbreact": "^4.11.0",
     "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",

@@ -1,0 +1,23 @@
+div > a:hover {
+    font-weight: bold;
+    color: #efefef;
+    background-color: rgb(65, 64, 64);
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+div > a {
+    color: white;
+    font-size: 30px;
+
+}
+
+div > span.error_style {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.center_error_404 {
+    text-align: center;
+}
