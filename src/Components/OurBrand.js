@@ -44,9 +44,9 @@ const OurBrand = () => {
                             <Cell col={2} phone={4} tablet={4}><img src={air_peace_logo} alt="image"  style={{height: '100px', width: '100px'}}/></Cell>
                             <Cell col={2} phone={4} tablet={4}><img src={purchase_9ja} alt="image"   style={{height: '240px', width: '290px'}}/></Cell>
                         
-                            <Cell col={2} phone={4} tablet={4}><img src={cu_logo} alt="image" style={{height: '150px', width: '200px'}} /></Cell>
-                            <Cell col={2} phone={4} tablet={4}><img src={coca_cola} alt="image" style={{height: '50px', width: '100px'}} /></Cell>
-                            <Cell col={2} phone={4} tablet={4}><img src={mobile_tailor} alt="image"  style={{height: '200px', width: '200px', paddingBottom: '30px'}}/></Cell>
+                            <Cell col={2} phone={4} tablet={4}><img src={cu_logo} alt="image" style={{height: '100px', width: '150px'}} /></Cell>
+                            <Cell col={2} phone={4} tablet={4}><img src={coca_cola} alt="image" style={{height: '50px', width: '90px', paddingLeft: '10px'}} /></Cell>
+                            <Cell col={2} phone={4} tablet={4}><img src={mobile_tailor} alt="image"  style={{height: '150px', width: '150px', paddingBottom: '30px'}}/></Cell>
                             <Cell col={2} phone={4} tablet={4}><img src={cut_24} alt="image"  style={{height: '110px', width: '110px', marginLeft: '60px'}}/></Cell>
 
                         </Grid>

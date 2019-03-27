@@ -15,8 +15,8 @@ class About extends React.Component {
 
                 </div>
                 <div>
-                    <h1 style={{color: 'yellow', fontWeight:'bold', fontSize: '20px'}}>ABOUT US</h1>
-                    <p style={{fontSize: '2.5vw', textAlign: '10px', color: 'white'}}>
+                    <h1 style={{color: 'yellow', fontWeight:'bold', fontSize: '2vw'}}>ABOUT US</h1>
+                    <p style={{fontSize: '2vw', textAlign: '10px', color: 'white'}}>
                         Redot is a creative agency(Branding & Marketing) set up <br /> 
                         to help brands reach their audience on an emotional level.<br /><br />
 
