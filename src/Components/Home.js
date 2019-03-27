@@ -34,7 +34,7 @@ const Home = () => (
                         <Cell col={6} phone={4} className="img_classes"><img src={image8} alt="image" /></Cell>
                         <Cell col={6} phone={4} className="img_classes"><img src={image9} alt="image" /></Cell>
                         <Cell col={6} phone={4} className="img_classes"><img src={image10} alt="image"  /></Cell>
-                        <Cell col={12} phone={6} className="img_classes" style={{marginTop: '10px'}}><img src={image11} alt="image" style={{width: '100%', height: '99%', paddingTop: 'px', margin:'auto'}} /></Cell>
+                        <Cell col={12} phone={6} className="img_classes" style={{marginTop: '10px'}}><img src={image11} alt="image" style={{width: '100%', height: '99%', margin:'auto'}} /></Cell>
                         
                     </Grid>                  
                 </div>

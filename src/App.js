@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Foot from './Components/Foot';
 import Head from './Components/Head';
 import Home from './Components/Home.js';
+import OurBrand from './Components/OurBrand';
+import About from './Components/About';
+
 import NotFoundPage from './Components/NotFoundPage';
 import './App.css';
 import 'normalize.css';
@@ -15,6 +18,9 @@ class App extends Component {
             <Head />
               <Switch>
                 <Route path="/" component={Home} exact />
+                <Route path="/our_brand" component={OurBrand} />
+                <Route path="/about_us" component={About} />
+
                 <Route component={NotFoundPage} />
               </Switch>
               {/*<Maps />*/}
