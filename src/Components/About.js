@@ -11,7 +11,7 @@ class About extends React.Component {
             
             <div style={{background: 'black', height: '1180px', paddingTop: '0.1px'}}>
                 <div style={{float: 'left'}} className="girl_on_yellow">
-                <img style={{width: '415px', height: '900px', padding: '0px 40px 5px 5px' }} src={lady_on_yellow}/>
+                <img style={{width: '400px', height: '900px', padding: '0px 40px 5px 5px' }} src={lady_on_yellow}/>
 
                 </div>
                 <div>

@@ -22,7 +22,7 @@ class Head extends React.Component {
                     <Header 
                         transparent 
                         title={
-                                <span style={{fontSize: '30px', fontWeight: 'bold'}}>
+                                <span style={{fontSize: '3.2vw', fontWeight: 'bold'}}>
                                     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
                                     <small>Redot <br />AGENCY</small><br /><br /><br /><br /><br /><br /><br /><br />A <span style={{color: 'aqua'}}>CREATIVE AGENCY</span><br /><br />
                                     PACKAGING EMOTIONS<br /><br />
@@ -30,9 +30,9 @@ class Head extends React.Component {
                                 </span>
                                }>
                             <Navigation className="hover_over_link">
-                                <NavLink to="/" activeClassName="is-active" exact={true} style={{color: 'black', fontFamily: 'Franklin Gothic Medium, Arial Narrow, Arial, sans-serif'}}>HOME</NavLink>
-                                <NavLink to="/our_brand" activeClassName="is-active" exact={true} style={{color: 'black', fontFamily: 'Franklin Gothic Medium, Arial Narrow, Arial, sans-serif'}}>OUR BRANDS</NavLink>
-                                <NavLink to="/about_us" activeClassName="is-active" exact={true} style={{color: 'black', fontFamily: 'Franklin Gothic Medium, Arial Narrow, Arial, sans-serif'}}>ABOUT US</NavLink>
+                                <NavLink to="/" activeClassName="is-active" exact={true} style={{color: 'black', fontFamily: 'Franklin Gothic Medium, Arial Narrow, Arial, sans-serif,', fontSize: '14px'}}>HOME</NavLink>
+                                <NavLink to="/our_brand" activeClassName="is-active" exact={true} style={{color: 'black', fontFamily: 'Franklin Gothic Medium, Arial Narrow, Arial, sans-serif,', fontSize: '14px'}}>OUR BRANDS</NavLink>
+                                <NavLink to="/about_us" activeClassName="is-active" exact={true} style={{color: 'black', fontFamily: 'Franklin Gothic Medium, Arial Narrow, Arial, sans-serif,', fontSize: '14px'}}>ABOUT US</NavLink>
                             </Navigation>
                         
                     </Header>
